@@ -31,9 +31,7 @@ async def un_auth(_, message):
 
     msg = f"""
 Hi {message.chat.first_name},
-You must be looking forward on how I work.
-In that case I can give you helpful links to self host me on your own.
-Here are some links for you
+Are You looking For how i work ?
         """
     buttons = InlineKeyboard(row_width=2)
     buttons.add(
