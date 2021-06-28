@@ -26,7 +26,7 @@ if DB_AVAILABLE:
     )
 
 welc_txt = f"""
-Hello, I'm {OwnerName}'s userbot.
+Hello, I'm {OwnerName}'s ub.
 Try contacting me by using the buttons down below.
 """
 
